@@ -1,0 +1,29 @@
+{
+  "name": "@erikakers/data-structures",
+  "version": "0.0.0",
+  "description": "Reusable Javascript Data structures.",
+  "author": "Erik Akers <erik.akers@vml.com>",
+  "homepage": "https://github.com/erikakers/modules#readme",
+  "license": "MIT",
+  "main": "lib/index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/erikakers/modules.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/erikakers/modules/issues"
+  },
+  "dependencies": {
+    "prettier": "^1.17.1"
+  }
+}
